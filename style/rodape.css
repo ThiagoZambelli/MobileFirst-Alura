@@ -36,3 +36,13 @@ footer{
         margin-left: .5em;
     }
 }
+@media screen and (min-width: 1724px) {
+    .lista-rodape{
+        border-left: 1px solid var(--cinza-claro);
+        padding-left: 1em;
+    }
+    footer{
+        padding: 3em 0;
+    }
+    
+}
